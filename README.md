@@ -3,9 +3,9 @@
 
 - 🔭 I contributed to the Microsoft 365 & Power Platform Community with my project [Student Application Process](https://github.com/pnp/powerapps-samples/tree/main/samples/student-application-process)
 
-- 🌱 Learning more about **Cloud Computing and Artificial Intelligence**
+- 🌱 Learning more about **Cloud Computing and Azure**
 
-- 👯 I’m looking to collaborate on **data science and UI/UX projects**
+- 👯 I’m looking to collaborate on **cloud projects that help me grow my technical skills**
 
 - 👨‍💻 You can find my design work at [https://www.behance.net/samiasohail](https://www.behance.net/samiasohail)
 
